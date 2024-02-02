@@ -77,7 +77,7 @@ Contributions to Frankie Assistant are welcome! Here's how you can contribute:
 
 ## License
 
-This project is licensed under [LICENSE TYPE]. For more details, see the LICENSE file in the repository.
+This project is licensed under MIT License. For more details, see the LICENSE file in the repository.
 
 ---
 
